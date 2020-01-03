@@ -1,6 +1,6 @@
 # Search App 
 
-A PhoneGap app using Framework7 and the [OpenWeather](https://openweathermap.org/api) API [Omdb](http://www.omdbapi.com/) API.
+A PhoneGap app using Framework7 and the [OpenWeather](https://openweathermap.org/api) & [Omdb](http://www.omdbapi.com/) API.
 
 ## Usage
     
